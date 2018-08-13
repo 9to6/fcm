@@ -1,5 +1,7 @@
 # fcm
 
+Firebase notification client for Crystal language
+
 ## Installation
 
 Add this to your application's `shard.yml`:
